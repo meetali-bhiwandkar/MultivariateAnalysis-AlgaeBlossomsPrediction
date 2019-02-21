@@ -18,4 +18,4 @@ Above are the different chemicals found in the river and their values
 We also have 7 different types of algaes:
 "a1"     "a2"     "a3"     "a4"     "a5"    "a6"     "a7"
 
-From these datasets we want to predict what types of algaes blooms considering the above river factors and chemicals compositions
+From these dataset we want to predict when does the algae blooms considering the above different river and chemical parameters so that water quality and river lifeforms can be protected

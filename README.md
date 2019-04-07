@@ -1,4 +1,4 @@
-#Predicting algaeBlooms
+Predicting algaeBlooms:
 
 High concentrations of certain harmful algae in rivers constitute a serious ecological problem with a strong impact not only on river lifeforms, but also on water quality. Being able to monitor and perform an early forecast of algae blooms is essential to improving the quality of rivers.
 With our analysis we want to predict the factors that are responsible for the algae to bloom which will help in improving the quality of water and save the various river lifeforms.
